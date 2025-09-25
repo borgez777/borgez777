@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá! sou o Daniel Borges 👋
 
-<!--
-**borgez777/borgez777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Cruzeiro do Sul (UDF)** e apaixonado por **desenvolvimento de software**.  
 
-Here are some ideas to get you started:
+💻 Minhas principais linguagens e tecnologias:  
+- **Java**  
+- **Python**  
+- **Node.js**  
+- **React**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou sempre em busca de aprender novas tecnologias, desenvolver projetos práticos e melhorar minhas habilidades como programador.  
+
+Se quiser conferir meus projetos, explore os repositórios aqui no meu GitHub! 🚀
