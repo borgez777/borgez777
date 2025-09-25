@@ -10,4 +10,4 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Cruzeiro do Sul
 
 Estou sempre em busca de aprender novas tecnologias, desenvolver projetos práticos e melhorar minhas habilidades como programador.  
 
-Se quiser conferir meus projetos, explore os repositórios aqui no meu GitHub! 🚀
+Se quiser conferir meus projetos, explore os repositórios aqui no meu GitHub!
