@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LINK_DA_SUA_IMAGEM_AQUI" width="100%">
+  <img src="https://github.com/user-attachments/assets/37254600-d975-4c4d-b44e-cb5e8be7f9c1" width="100%">
 </p>
 
 <h1 align="center">Olá, eu sou o Daniel Borges! 👨🏻‍💻</h1>
