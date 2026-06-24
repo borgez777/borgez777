@@ -18,8 +18,6 @@
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (UDF).
 - 🎯 Buscando minha primeira oportunidade de estágio na área de tecnologia.
 - 📊 Tenho um foco forte no ecossistema **Python** (Pandas, Plotly, Streamlit, Power BI) para análise de dados.
-- ⚙️ Também atuo desenvolvendo APIs e sistemas, como o **Evoo API** (sistema de notificações unificadas).
-- 🎬 Fora dos códigos, sou aficionado por cinema (obras densas e psicológicas) e um bom mangá.
 
 ---
 
