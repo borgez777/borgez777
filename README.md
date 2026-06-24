@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.gif" width="100%">
+  <img src="LINK_DA_SUA_IMAGEM_AQUI" width="100%">
 </p>
 
 <h1 align="center">Olá, eu sou o Daniel Borges! 👨🏻‍💻</h1>
@@ -37,9 +37,14 @@
 ### 📈 Minhas Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=borgez777&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=borgez777&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borgez777&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borgez777&layout=compact&hide_border=true&title_color=fff&text_color=9f9f9f&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=borgez777&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=borgez777&theme=react-dark" alt="Activity Graph" />
 </p>
