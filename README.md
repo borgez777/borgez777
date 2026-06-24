@@ -26,6 +26,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=python&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=Streamlit&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=Jupyter&logoColor=ffffff" />
