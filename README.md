@@ -37,14 +37,14 @@
 ### 📈 Minhas Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=borgez777&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borgez777&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=borgez777&theme=dark&title_color=ffffff&icon_color=ffffff&text_color=cccccc" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borgez777&layout=compact&theme=dark&title_color=ffffff&text_color=cccccc" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=borgez777&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=borgez777&theme=dark&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=cccccc&sideLabels=cccccc&dates=cccccc" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=borgez777&theme=react-dark" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=borgez777&bg_color=0D1117&color=ffffff&line=ffffff&point=ffffff" alt="Activity Graph" />
 </p>
