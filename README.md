@@ -16,7 +16,6 @@
 ### 🕵🏻‍♂️ Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (UDF).
-- 🎯 Buscando minha primeira oportunidade de estágio na área de tecnologia.
 - 📊 Tenho um foco forte no ecossistema **Python** (Pandas, Plotly, Streamlit, Power BI) para análise de dados.
 
 ---
